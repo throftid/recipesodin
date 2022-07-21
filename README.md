@@ -1,1 +1,1 @@
-# recipesodin
+Recipes project for the odin project used to showcase my utilization of HTML.
